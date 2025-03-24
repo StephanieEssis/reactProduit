@@ -22,11 +22,11 @@ function App() {
       <div className="text-center mt-3">
         <h3>Bonjour, {userName ? userName : "!"}</h3>
         {userName && <img 
-                src="https://img.freepik.com/photos-gratuite/jeune-femme-heureuse-isolee_171337-1371.jpg?t=st=1742821048~exp=1742824648~hmac=2bc30e02d9fc0f74bcd5e979f716d821347c2eac1b90da8f162e798ff5d75757&w=1480"
-                 alt=""
+                src="https://img.freepik.com/photos-gratuite/bouchent-portrait-belle-femme_23-2149150981.jpg?t=st=1742841527~exp=1742845127~hmac=276b3335b89875d95e9853178bc6c883482e6a449a8b5973c692f4eabe589e66&w=1480"  
+                alt=""
                 className="styleUserImage"
                 width="200" 
-  height="200" 
+                height="200" 
               />}
       </div>
     </div>
